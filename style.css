@@ -328,7 +328,7 @@ html{
     position: relative;
     font-size: 160%;
     left:16%;
-    top:50px;
+    top:60px;
   
   }
   .pyp{
@@ -336,7 +336,7 @@ html{
       position: relative;
       font-size: 85%;
       left:13%;
-      top:50px;
+      top:60px;
      text-align: center;
      width:15%;
     
@@ -364,14 +364,14 @@ html{
     position: relative;
     font-size: 160%;
     left:41%;
-    top:-230px;
+    top:-220px;
   }
   .bootp{
     color:black;
     position: relative;
     font-size: 85%;
     left:41%;
-    top:-225px;
+    top:-220px;
    text-align: center;
    width:15%;
   }
