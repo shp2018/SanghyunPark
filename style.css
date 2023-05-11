@@ -306,7 +306,7 @@ html{
     font-weight: bold;
     position: relative;
     font-size: 160%;
-    left:70%;
+    left:73%;
     top:-390px;
     padding: none;
   
@@ -315,7 +315,7 @@ html{
     color:black;
     position: relative;
     font-size: 85%;
-    left:65%;
+    left:68%;
     top:-390px;
   text-align: center;
     width:15%;
@@ -347,14 +347,14 @@ html{
     position: relative;
     font-size: 160%;
     top:80px;
-    left:488px;
+    left:44%;
   }
   .jsp{
     color:black;
     position: relative;
     font-size: 85%;
     top:80px;
-    left:440px;
+    left:41%;
     width:17%;
     text-align: center;
   }
@@ -363,14 +363,14 @@ html{
     font-weight: bold;
     position: relative;
     font-size: 160%;
-    left:42%;
+    left:44%;
     top:-230px;
   }
   .bootp{
     color:black;
     position: relative;
     font-size: 85%;
-    left:42%;
+    left:44%;
     top:-225px;
    text-align: center;
    width:15%;
@@ -399,14 +399,14 @@ html{
     position: relative;
     font-size: 160%;
     top:-150px;
-    left:835px;
+    left:77%;
   }
   .cp{
     color:black;
     position: relative;
     font-size: 85%;
     top:-150px;
-    left:750px;
+    left:70%;
     text-align: center;
     width:17%;
     padding: none;
@@ -570,7 +570,7 @@ html{
   .link5{
     position: absolute;
     font-size: 16px;
-    top:495px;
+    top:445px;
     left:175px;
     
   }
