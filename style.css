@@ -7,7 +7,7 @@ html{
   #wrapper {
     margin-left:auto;
     margin-right:auto;
-/*     width:1500px; */
+    width:1500px;
 }
   body{
 
@@ -247,7 +247,7 @@ html{
     width: 10%;
     height: 1px;
     bottom: 0;
-    left: 520px;
+    left:45%;
     border-bottom: 3px solid rgb(149, 187, 199);
   }
   .pskill{
@@ -306,7 +306,7 @@ html{
     font-weight: bold;
     position: relative;
     font-size: 160%;
-    left:71%;
+    left:76%;
     top:-390px;
     padding: none;
   
@@ -315,29 +315,28 @@ html{
     color:black;
     position: relative;
     font-size: 85%;
-    left:66%;
+    left:71%;
     top:-390px;
   text-align: center;
     width:15%;
     padding: none;
   
   }
-
   .pyh{
   color:black;
     font-weight: bold;
     position: relative;
     font-size: 160%;
-    left:23%;
-    top:10px;
+    left:16%;
+    top:50px;
   
   }
   .pyp{
     color:black;
       position: relative;
       font-size: 85%;
-      left:19%;
-      top:10px;
+      left:13%;
+      top:50px;
      text-align: center;
      width:15%;
     
@@ -364,14 +363,14 @@ html{
     font-weight: bold;
     position: relative;
     font-size: 160%;
-    left:44%;
+    left:41%;
     top:-230px;
   }
   .bootp{
     color:black;
     position: relative;
     font-size: 85%;
-    left:44%;
+    left:41%;
     top:-225px;
    text-align: center;
    width:15%;
@@ -427,7 +426,7 @@ html{
     width: 15%;
     height: 1px;
     bottom: 0;
-    left: 485px;
+    left: 42%;
     border-bottom: 3px solid rgb(149, 187, 199);
   }
   
@@ -610,7 +609,7 @@ html{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:100%;
+    width:80%;
     
   
   }
@@ -666,12 +665,13 @@ html{
     height:2200px;
     position: relative;
     background-color: white;
-    top: 100px;
+    top: 500px;
     opacity: 1;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width:80%;
+    margin-top: 150px;
   
   
   }
