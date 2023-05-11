@@ -107,17 +107,14 @@ html{
     width: 80%;
   }
   .me{
-    position: absolute;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
+    position: relative;
     border-radius: 250px;
-    left:14%;
+
+    left:14.5%;
     border: 3px solid rgb(149, 187, 199);
     z-index: 1;
-    top:1180px;
-    width: 17%;
+    top:940px;
+    width: 15%;
   }
   .about{
     position: relative;
