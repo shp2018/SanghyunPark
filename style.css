@@ -4,6 +4,11 @@ html{
     max-width: 100%;
     /* overflow-x: hidden; */
   }
+#wrapper{
+  margin-left:auto;
+    margin-right:auto;
+    width:1300px;
+}
   body{
     width :100%;
     z-index: -1;
