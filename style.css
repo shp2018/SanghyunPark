@@ -104,7 +104,7 @@ html{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:80%;
+    width:90%;
   }
   .me{
     position: absolute;
@@ -228,7 +228,7 @@ html{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width:80%;
+    width:90%;
     top: 500px;
     opacity: 0.8;
   }
@@ -458,7 +458,7 @@ html{
   .video{
       position: relative;
       width:35% ;
-     height:250px;
+     height:300px;
       top:100px;
       left:65px;
       margin-right: 70px;
@@ -536,14 +536,14 @@ html{
   .link1{
       position: absolute;
       font-size: 16px;
-      top:1360px;
+      top:1560px;
       left:700px
   
   }
   .link2{
     position: absolute;
     font-size: 16px;
-    top:1360px;
+    top:1560px;
     left:200px
    
    
@@ -551,19 +551,19 @@ html{
   .link3{
     position: absolute;
     font-size: 16px;
-    top:1670px;
+    top:1920px;
     left:190px;
   }
   .link10{
     position: absolute;
     font-size: 16px;
-    top:1670px;
+    top:1920px;
     left:780px;
   }
   .link4{
     position: absolute;
     font-size: 16px;
-    top:750px;
+    top:850px;
     left:750px;
   
   }
@@ -577,13 +577,13 @@ html{
   .link8{
     position: absolute;
     font-size: 16px;
-    top:1055px;
+    top:1210px;
     left:185px;
   }
   .link9{
     position: absolute;
     font-size: 16px;
-    top:1055px;
+    top:1210px;
     left:675px;
   
   }
@@ -596,7 +596,7 @@ html{
   .link7{
     position: absolute;
     font-size: 16px;
-    top:750px;
+    top:850px;
     left:140px;
   }
   
@@ -662,7 +662,7 @@ html{
   }
 
   .portfolio{
-    height:1920px;
+    height:2200px;
     position: relative;
     background-color: white;
     top: 100px;
