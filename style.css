@@ -4,10 +4,10 @@ html{
     max-width: 100%;
     overflow-x: hidden;
   }
-  #wrapper {
+ #wrapper {
     margin-left:auto;
     margin-right:auto;
-    /* width:1300px; */
+    width:1500px;
 }
   body{
 
