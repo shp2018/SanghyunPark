@@ -306,7 +306,7 @@ html{
     font-weight: bold;
     position: relative;
     font-size: 160%;
-    left:73%;
+    left:71%;
     top:-390px;
     padding: none;
   
@@ -315,13 +315,14 @@ html{
     color:black;
     position: relative;
     font-size: 85%;
-    left:68%;
+    left:66%;
     top:-390px;
   text-align: center;
     width:15%;
     padding: none;
   
   }
+
   .pyh{
   color:black;
     font-weight: bold;
